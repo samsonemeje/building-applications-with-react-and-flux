@@ -2,7 +2,7 @@
   "courses": [
     {
       "id": 1,
-      "title": "Securing React Apps with Auth0",
+      "title": "Securing React Apps with Auth0-1",
       "slug": "react-auth0-authentication-security",
       "authorId": 1,
       "category": "JavaScript"
@@ -48,28 +48,6 @@
       "slug": "writing-clean-code-humans",
       "authorId": 1,
       "category": "Software Practices"
-    },
-    {
-      "id": 8,
-      "title": "Architecting Applications for the Real World",
-      "slug": "architecting-applications-dotnet",
-      "authorId": 1,
-      "category": "Software Architecture"
-    },
-    {
-      "id": 9,
-      "title": "Becoming an Outlier: Reprogramming the Developer Mind",
-      "slug": "career-reboot-for-developer-mind",
-      "authorId": 1,
-      "category": "Career"
-    },
-    {
-      "id": 10,
-      "slug": "grace-of-god-driven-development",
-      "title": "Grace of God driven development2",
-      "authorId": 1,
-      "category": "great",
-      "createdAt": 1595827671159
     }
   ],
   "authors": [
